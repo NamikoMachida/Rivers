@@ -1,6 +1,6 @@
 BIG RIVERS:
-	Cheat 
-	Monongahela
+	Cheat Rivers
+	Monongahela Rivers
 SMALL RIVERS:
 	Dents Run
 	Deckers Creek
@@ -9,6 +9,3 @@ SMALL RIVERS:
 MEDIUM SIZED RIVERS
 	Wheeling Creek
 	Kanawha River
-	New River
-	Big Sandy Creek
-	Elk
